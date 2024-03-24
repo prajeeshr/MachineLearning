@@ -5,7 +5,7 @@ This repository is used for me to learn and experiment with Machine Learning Mod
 ## Exploratory Data Analysis (EDA) 
 EDA is a crucial initial step in data analysis that involves exploring and summarizing key characteristics, patterns, and relationships present in the dataset. Here are some common tasks performed during EDA:
 
-1. <b> Data Collection </b>: Gathering the dataset from various sources, such as databases, files, or APIs.
+1. <b> <span style="color:orange;">Data Collection </b> </span> : Gathering the dataset from various sources, such as databases, files, or APIs.
 2. Data Cleaning: Preprocessing the data to handle missing values, outliers, duplicates, and other inconsistencies. This may involve imputation, removal, or transformation of data.
 3. Descriptive Statistics: Computing summary statistics (e.g., mean, median, mode, standard deviation, range) to understand the basic properties of the data.
 4. Univariate Analysis: Analyzing individual variables to understand their distributions, identify outliers, and detect patterns. This may involve histograms, box plots, or kernel density plots.
