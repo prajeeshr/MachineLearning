@@ -1,8 +1,8 @@
 # MachineLearning
 This repository is used for me to learn and experiment with Machine Learning Modles
 
-### The Various steps in building a model involves
-## Exploratory Data Analysis (EDA) 
+
+1. ## Exploratory Data Analysis (EDA) 
 EDA is a crucial initial step in data analysis that involves exploring and summarizing key characteristics, patterns, and relationships present in the dataset. Here are some common tasks performed during EDA:
 
 1. Data Collection: Gathering the dataset from various sources, such as databases, files, or APIs.
