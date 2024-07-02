@@ -1,5 +1,5 @@
 # MachineLearning
-This repository is used for me to learn and experiment with Machine Learning Modles
+This repository is used for me to learn and experiment with Machine Learning Models
 
 
 ## Exploratory Data Analysis (EDA) 
